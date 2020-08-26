@@ -1,7 +1,5 @@
 jQuery calendar library is a simple way to create a calendar for any given month or year.
 
-Calendar uses plain Javascript whereas Calendar widget has been developed as jQuery widget
-
 Libraries and Frameworks:
 1. Bootstrap for resposive design
 2. JQuery
