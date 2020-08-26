@@ -1,4 +1,4 @@
-jQuery calendar library is a simple way to create a calendar for any given month or year.
+jQuery calendar plugin is a simple way to create a calendar for any given month or year.
 
 Libraries and Frameworks:
 1. Bootstrap for resposive design
